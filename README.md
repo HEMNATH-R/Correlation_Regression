@@ -21,6 +21,10 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program
+```
+ Developed by : HEMNATH R
+ Register Number : 24010023
+```
 ![Screenshot 2024-12-25 114829](https://github.com/user-attachments/assets/4ad7ad39-30ab-4122-8bfc-6c4d8816b9f4)
 
 
